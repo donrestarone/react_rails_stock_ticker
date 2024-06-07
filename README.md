@@ -1,11 +1,3 @@
-## Client setup
-
-``` bash
-cd client
-npm install
-npm run dev
-```
-
 ## Server setup
 set Polygon API key in local environment (depending on your shell, you can set it in `.bashrc` or `.zshrc`)
 ``` txt
@@ -19,6 +11,13 @@ bundle install
 rails s
 ```
 
+## Client setup
+
+``` bash
+cd client
+npm install
+npm run dev
+```
 ## The app
 
 visit http://localhost:5173/ to see the app in action
