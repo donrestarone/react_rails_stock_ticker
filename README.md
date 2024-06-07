@@ -23,6 +23,12 @@ rails s
 
 visit http://localhost:5173/ to see the app in action
 
+
+
+https://github.com/donrestarone/react_rails_stock_ticker/assets/35935196/ead54c00-8329-40cd-88f5-21a69b0dfe2f
+
+
+
 ## Notes
 
 1. the local variable `stubbing_for_performance` allows the server to stub its polygon API response to avoid hitting polygon API rate limits (in an attempt to accelerate frontend development)
